@@ -1,0 +1,2 @@
+#!/bin/bash
+cat file.txt | tail -1 | tee -a file.txt
